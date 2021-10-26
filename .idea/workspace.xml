@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33e9d573-7c3b-40ea-8ed8-440e7e8b088e" name="Changes" comment="little change">
+    <list default="true" id="33e9d573-7c3b-40ea-8ed8-440e7e8b088e" name="Changes" comment="Ahora el formulario es funcional">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -42,12 +42,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="845082e4-d5d3-4a56-9797-256bc286e173" name="Changes" comment="" />
+      <changelist id="33e9d573-7c3b-40ea-8ed8-440e7e8b088e" name="Changes" comment="Ahora el formulario es funcional" />
       <created>1635266974232</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635266974232</updated>
       <workItem from="1635266976621" duration="2053000" />
+      <workItem from="1635280388649" duration="3416000" />
     </task>
     <task id="LOCAL-00001" summary="Visualización">
       <created>1635267503595</created>
@@ -70,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635268894014</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ahora el formulario es funcional">
+      <created>1635272473804</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635272473804</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +100,7 @@
     <MESSAGE value="Visualización" />
     <MESSAGE value="pequeño cambio" />
     <MESSAGE value="little change" />
-    <option name="LAST_COMMIT_MESSAGE" value="little change" />
+    <MESSAGE value="Ahora el formulario es funcional" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ahora el formulario es funcional" />
   </component>
 </project>
