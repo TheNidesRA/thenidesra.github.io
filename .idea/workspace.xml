@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33e9d573-7c3b-40ea-8ed8-440e7e8b088e" name="Changes" comment="Ahora el formulario es funcional">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="33e9d573-7c3b-40ea-8ed8-440e7e8b088e" name="Changes" comment="Añadidas fotos">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1635266974232</updated>
       <workItem from="1635266976621" duration="2053000" />
-      <workItem from="1635280388649" duration="3416000" />
+      <workItem from="1635280388649" duration="3738000" />
     </task>
     <task id="LOCAL-00001" summary="Visualización">
       <created>1635267503595</created>
@@ -78,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635272473804</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Añadidas fotos">
+      <created>1635283911189</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1635283911189</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +107,7 @@
     <MESSAGE value="pequeño cambio" />
     <MESSAGE value="little change" />
     <MESSAGE value="Ahora el formulario es funcional" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ahora el formulario es funcional" />
+    <MESSAGE value="Añadidas fotos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Añadidas fotos" />
   </component>
 </project>
