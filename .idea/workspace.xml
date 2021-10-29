@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33e9d573-7c3b-40ea-8ed8-440e7e8b088e" name="Changes" comment="cambio de colores e imágenes nuevas añadidas">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-    </list>
+    <list default="true" id="33e9d573-7c3b-40ea-8ed8-440e7e8b088e" name="Changes" comment="final style changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +17,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="203IiaoEFa8Luu1ZEkwB6OPx8NZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -51,7 +49,7 @@
       <workItem from="1635280388649" duration="4184000" />
       <workItem from="1635314626254" duration="386000" />
       <workItem from="1635315263579" duration="88000" />
-      <workItem from="1635346075496" duration="5644000" />
+      <workItem from="1635346075496" duration="5903000" />
     </task>
     <task id="LOCAL-00001" summary="Visualización">
       <created>1635267503595</created>
@@ -102,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635350309913</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="final style changes">
+      <created>1635351779374</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1635351779374</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +133,7 @@
     <MESSAGE value="Añadidas fotos" />
     <MESSAGE value="errores corregidos" />
     <MESSAGE value="cambio de colores e imágenes nuevas añadidas" />
-    <option name="LAST_COMMIT_MESSAGE" value="cambio de colores e imágenes nuevas añadidas" />
+    <MESSAGE value="final style changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="final style changes" />
   </component>
 </project>
