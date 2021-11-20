@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33e9d573-7c3b-40ea-8ed8-440e7e8b088e" name="Changes" comment="final style changes" />
+    <list default="true" id="33e9d573-7c3b-40ea-8ed8-440e7e8b088e" name="Changes" comment="final addition">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Proyecto_JeR_KingOfTheYard-Fase2/Proyecto_JeR_KingOfTheYard-Fase2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -50,6 +54,9 @@
       <workItem from="1635314626254" duration="386000" />
       <workItem from="1635315263579" duration="88000" />
       <workItem from="1635346075496" duration="5903000" />
+      <workItem from="1635521820861" duration="116000" />
+      <workItem from="1637351911255" duration="365000" />
+      <workItem from="1637417911023" duration="799000" />
     </task>
     <task id="LOCAL-00001" summary="Visualización">
       <created>1635267503595</created>
@@ -107,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635351779374</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="final addition">
+      <created>1635521927263</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1635521927263</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +148,7 @@
     <MESSAGE value="errores corregidos" />
     <MESSAGE value="cambio de colores e imágenes nuevas añadidas" />
     <MESSAGE value="final style changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="final style changes" />
+    <MESSAGE value="final addition" />
+    <option name="LAST_COMMIT_MESSAGE" value="final addition" />
   </component>
 </project>
