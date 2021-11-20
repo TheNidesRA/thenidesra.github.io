@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33e9d573-7c3b-40ea-8ed8-440e7e8b088e" name="Changes" comment="final addition">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="33e9d573-7c3b-40ea-8ed8-440e7e8b088e" name="Changes" comment="Añadidos carouseles que enseñan imágenes del juego, también se ha centrado el proyecto para darle una mayor importancia" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,7 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1635521927263</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Añadidos carouseles que enseñan imágenes del juego, también se ha centrado el proyecto para darle una mayor importancia">
+      <created>1637424702490</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1637424702490</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Añadidos carouseles que enseñan imágenes del juego, también se ha centrado el proyecto para darle una mayor importancia">
+      <created>1637424854853</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1637424854853</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +160,7 @@
     <MESSAGE value="cambio de colores e imágenes nuevas añadidas" />
     <MESSAGE value="final style changes" />
     <MESSAGE value="final addition" />
-    <option name="LAST_COMMIT_MESSAGE" value="final addition" />
+    <MESSAGE value="Añadidos carouseles que enseñan imágenes del juego, también se ha centrado el proyecto para darle una mayor importancia" />
+    <option name="LAST_COMMIT_MESSAGE" value="Añadidos carouseles que enseñan imágenes del juego, también se ha centrado el proyecto para darle una mayor importancia" />
   </component>
 </project>
