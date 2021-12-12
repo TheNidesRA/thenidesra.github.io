@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33e9d573-7c3b-40ea-8ed8-440e7e8b088e" name="Changes" comment="Añadido linkedin de miembro" />
+    <list default="true" id="33e9d573-7c3b-40ea-8ed8-440e7e8b088e" name="Changes" comment="- Cambio de algunas fotos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +60,7 @@
       <workItem from="1637417911023" duration="799000" />
       <workItem from="1637497560554" duration="237000" />
       <workItem from="1637500022394" duration="154000" />
+      <workItem from="1639343860705" duration="1943000" />
     </task>
     <task id="LOCAL-00001" summary="Visualización">
       <created>1635267503595</created>
@@ -162,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637500136997</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="- Cambio de algunas fotos">
+      <created>1639344042241</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1639344042241</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +207,7 @@
     <MESSAGE value="prueba vista entero" />
     <MESSAGE value="retoque del formulario para que pida obligatoriamente los campos" />
     <MESSAGE value="Añadido linkedin de miembro" />
-    <option name="LAST_COMMIT_MESSAGE" value="Añadido linkedin de miembro" />
+    <MESSAGE value="- Cambio de algunas fotos" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Cambio de algunas fotos" />
   </component>
 </project>

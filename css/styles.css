@@ -8476,6 +8476,21 @@ textarea.form-control-lg {
     background-color: rgba(247, 250, 200, 0.5) !important;
 }
 
+.bg-pink {
+    --bs-bg-opacity: 1;
+    background-color: rgba(227, 190, 214, 0.5) !important;
+}
+
+.bg-pink2 {
+    --bs-bg-opacity: 1;
+    background-color: rgba(255, 137, 228, 0.5) !important;
+}
+
+.bg-pink3 {
+    --bs-bg-opacity: 1;
+    background-color: rgba(255, 104, 227, 0.5) !important;
+}
+
 .bg-dark {
     --bs-bg-opacity: 1;
     background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
