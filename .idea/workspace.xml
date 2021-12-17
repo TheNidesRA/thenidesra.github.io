@@ -4,20 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33e9d573-7c3b-40ea-8ed8-440e7e8b088e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/BannerHelado/boomfin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/BannerHelado/fondo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/BannerHelado/golem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/BannerHelado/pascual.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/BannerHelado/plantilla.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/baston_caramelo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logos/frozenFuryLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logos/frozenLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logos/frozenLogoM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/thenidesra.png" afterDir="false" />
+    <list default="true" id="33e9d573-7c3b-40ea-8ed8-440e7e8b088e" name="Changes" comment="De todo un poco">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/thenidesra.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/BannerHelado/boomfin.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/BannerHelado/boomfin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/BannerHelado/characters.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/BannerHelado/characters.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/BannerHelado/coneman.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/BannerHelado/coneman.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/BannerHelado/diablillo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/BannerHelado/diablillo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/BannerHelado/dragon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/BannerHelado/dragon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/BannerHelado/golem.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/BannerHelado/golem.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/BannerHelado/pascual.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/BannerHelado/pascual.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/BannerHelado/plantilla.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/BannerHelado/plantilla.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/BannerHelado/torrine.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/BannerHelado/torrine.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +33,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="203IiaoEFa8Luu1ZEkwB6OPx8NZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -191,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639344042241</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="De todo un poco">
+      <created>1639782151399</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1639782151399</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +232,7 @@
     <MESSAGE value="retoque del formulario para que pida obligatoriamente los campos" />
     <MESSAGE value="Añadido linkedin de miembro" />
     <MESSAGE value="- Cambio de algunas fotos" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Cambio de algunas fotos" />
+    <MESSAGE value="De todo un poco" />
+    <option name="LAST_COMMIT_MESSAGE" value="De todo un poco" />
   </component>
 </project>
