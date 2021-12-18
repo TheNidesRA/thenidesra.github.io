@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33e9d573-7c3b-40ea-8ed8-440e7e8b088e" name="Changes" comment="- Cambiado orden de miguel y adri">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="33e9d573-7c3b-40ea-8ed8-440e7e8b088e" name="Changes" comment="- Miguel y Andoni centrados">
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Cooper Black Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +77,7 @@
       <workItem from="1637497560554" duration="237000" />
       <workItem from="1637500022394" duration="154000" />
       <workItem from="1639343860705" duration="1943000" />
-      <workItem from="1639824952085" duration="335000" />
+      <workItem from="1639824952085" duration="1103000" />
     </task>
     <task id="LOCAL-00001" summary="Visualización">
       <created>1635267503595</created>
@@ -217,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639825164728</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="- Miguel y Andoni centrados">
+      <created>1639825404537</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1639825404537</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,6 +264,7 @@
     <MESSAGE value="- Añadido el vídeo y cambiados un poco los carouseles" />
     <MESSAGE value="- Cambiado lo del width y el height." />
     <MESSAGE value="- Cambiado orden de miguel y adri" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Cambiado orden de miguel y adri" />
+    <MESSAGE value="- Miguel y Andoni centrados" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Miguel y Andoni centrados" />
   </component>
 </project>

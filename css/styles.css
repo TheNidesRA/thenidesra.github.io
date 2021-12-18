@@ -75,7 +75,10 @@
         scroll-behavior: smooth;
     }
 }
-
+@font-face {
+    font-family: "Cooperino";
+    src: url("/assets/fonts/Cooper Black Regular.ttf");
+}
 body {
     margin: 0;
     font-family: var(--bs-body-font-family);
@@ -12565,18 +12568,18 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 .subtitle-frozen-fury {
-    font-family:"Cooper Black";
+    font-family:Cooperino;
     font-size: 5vw;
     text-shadow: 2px 2px 0 #fff, 3px 2px 0 #fff;
 }
 .section-heading{
-    font-family: "Cooper Black";
+    font-family: Cooperino;
 }
 .section-subheading{
-    font-family: "Cooper Black";
+    font-family: Cooperino;
 }
 .section-p{
-    font-family: "Cooper Black";
+    font-family: Cooperino;
     color: #4B4B4B;
 }
 .section-frozen-fury{
