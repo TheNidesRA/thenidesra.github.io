@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33e9d573-7c3b-40ea-8ed8-440e7e8b088e" name="Changes" comment="De todo un poco">
+    <list default="true" id="33e9d573-7c3b-40ea-8ed8-440e7e8b088e" name="Changes" comment="- Cambiado lo del width y el height.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1639782151399</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="- Añadido el vídeo y cambiados un poco los carouseles">
+      <created>1639824333448</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1639824333448</updated>
+    </task>
+    <task id="LOCAL-00019" summary="- Cambiado lo del width y el height.">
+      <created>1639824449683</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1639824449683</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +244,8 @@
     <MESSAGE value="Añadido linkedin de miembro" />
     <MESSAGE value="- Cambio de algunas fotos" />
     <MESSAGE value="De todo un poco" />
-    <option name="LAST_COMMIT_MESSAGE" value="De todo un poco" />
+    <MESSAGE value="- Añadido el vídeo y cambiados un poco los carouseles" />
+    <MESSAGE value="- Cambiado lo del width y el height." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Cambiado lo del width y el height." />
   </component>
 </project>
